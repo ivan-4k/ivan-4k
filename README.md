@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ivan)](https://git.io/typing-svg)
 
 <!--
 **ivan-4k/ivan-4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
