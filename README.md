@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ivan.EXE&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Ivan.EXE?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/ivan-4k?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivan-4k&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-4k&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -89,17 +89,11 @@
 ### 🌐 Terhubung dengan Saya
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME_KAMU">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/USERNAME_KAMU">
+  <a href="https://instagram.com/ipaaan26">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:emailkamu@example.com">
+  <a href="mailto:ivan0febriansyah@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
