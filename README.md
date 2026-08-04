@@ -34,7 +34,33 @@
 ## 🌲 SKILL TREE
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,js,mysql,html,css,git,vscode&theme=dark" />
+
+### 🌐 Frontend Scout
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
+
+`HTML` ★★★★☆ &nbsp;|&nbsp; `CSS` ★★★★☆ &nbsp;|&nbsp; `JavaScript` ★★★☆☆ &nbsp;|&nbsp; `Tailwind CSS` ★★★☆☆
+
+<br>
+
+### ⚔️ Backend Mage
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" />
+
+`Laravel` ★★★★★ &nbsp;|&nbsp; `PHP 8.x` ★★★★☆ &nbsp;|&nbsp; `MySQL` ★★★☆☆
+
+<br>
+
+### 🏹 Mobile Ranger
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+
+`Flutter` ★★★★☆ &nbsp;|&nbsp; `Dart` ★★★★☆ &nbsp;|&nbsp; `Provider State Mgmt` ★★★★☆
+
+<br>
+
+### 🛠️ Tools & Guild Hall
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
+
+`Git` ★★★★☆ &nbsp;|&nbsp; `VSCode` ★★★★★
+
 </div>
 
 ```
