@@ -12,15 +12,14 @@
 
 ```
 ┌──────────────────────────────────────────────┐
-│  NAME     : Ivan                               │
-│  CLASS    : Laravel Mage / Flutter Ranger      │
-│  LEVEL    : 4 (Semester 4)                     │
-│  LOCATION : Indonesia 🇮🇩                       │
-│  GUILD    : Yayasan Masjid Al-Iman (Yamali)    │
+│  NAME     : Ivan                             │
+│  CLASS    : Laravel Mage / Flutter Ranger    │
+│  LEVEL    : 4 (Semester 4)                   │
+│  LOCATION : Indonesia 🇮🇩                     |
 ├──────────────────────────────────────────────┤
-│  HP  ████████████████████░░  92/100           │
-│  MP  ██████████████████████ 100/100 (COFFEE)  │
-│  XP  ███████████████░░░░░░░  67%  → LVL 5      │
+│  HP  ████████████████████░░  92/100          │
+│  MP  ██████████████████████ 100/100 (COFFEE) │
+│  XP  ███████████████░░░░░░░  67%  → LVL 5    │
 └──────────────────────────────────────────────┘
 ```
 
@@ -67,7 +66,7 @@
 |---|---|---|---|
 | 🏰 **E-Kinerja** (ekin-laravel) | ⭐ Main Quest | ████████░░ 80% | Sistem kinerja & absensi GPS pegawai, migrasi dari legacy PHP |
 | 🏪 **Rental-Laravel** | 🗡️ Side Quest | ██████░░░░ 60% | POS rental dengan RBAC (Spatie Permission) |
-| 📱 **Flutter Staff App** | 🎯 Completed Quest | ██████████ 100% | App manajemen staff resto, ML Kit + Provider |
+| 📱 **Flutter Seven Coffee** | 🎯 Completed Quest | ██████████ 100% | App manajemen staff resto, ML Kit + Provider |
 
 <br>
 
