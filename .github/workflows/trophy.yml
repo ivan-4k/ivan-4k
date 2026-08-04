@@ -22,7 +22,7 @@ jobs:
         with:
           username: ivan-4k
           file: assets/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
