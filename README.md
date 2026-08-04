@@ -1,94 +1,121 @@
-<h1 align="center">🎮 IVAN.EXE — PLAYER PROFILE 🎮</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Loading+Player+Data...;Initializing+Ivan.EXE...;System+Ready.+Welcome%2C+Player!" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=IVAN.EXE&fontSize=60&fontColor=00ff9c&fontAlignY=45&animation=twinkling&desc=%3E%20LOADING%20PROFILE.exe...&descAlignY=65&descSize=18&descColor=ffcc00" width="100%"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f7omMTLKzNMK4/giphy.gif" width="400">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=PLAYER%3A+IVAN;CLASS%3A+BACKEND+MAGE+%2F+FLUTTER+RANGER;STATUS%3A+GRINDING+E-KINERJA+DUNGEON;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
 
----
+</div>
 
-## 🕹️ CHARACTER STATUS
+<br>
 
-```yaml
-Player Name   : Ivan
-Class         : Software Developer
-Level         : 99 (Still Grinding XP)
-Alignment     : Chaotic Good Coder
-Current Quest : Building Cool Stuff
-Guild         : github.com/ivan-4k
+## 🕹️ PLAYER STATUS
+
+```
+┌──────────────────────────────────────────────┐
+│  NAME     : Ivan                               │
+│  CLASS    : Laravel Mage / Flutter Ranger      │
+│  LEVEL    : 4 (Semester 4)                     │
+│  LOCATION : Indonesia 🇮🇩                       │
+│  GUILD    : Yayasan Masjid Al-Iman (Yamali)    │
+├──────────────────────────────────────────────┤
+│  HP  ████████████████████░░  92/100           │
+│  MP  ██████████████████████ 100/100 (COFFEE)  │
+│  XP  ███████████████░░░░░░░  67%  → LVL 5      │
+└──────────────────────────────────────────────┘
 ```
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-CODING...-00ff9c?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/MOOD-☕+DEBUGGING-ffcc00?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/CURRENT_QUEST-E--KINERJA-ff4d6d?style=for-the-badge&labelColor=1a1a2e"/>
+</div>
 
-## 📊 PLAYER STATS
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivan-4k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-4k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
-</p>
+## 🌲 SKILL TREE
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-4k&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=FF6B6B" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,js,mysql,html,css,git,vscode&theme=dark" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivan-4k&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF" />
-</p>
+```
+                        ⚔️ BACKEND MAGE
+                              │
+              ┌───────────────┼───────────────┐
+         [Laravel]         [PHP 8.x]      [MySQL/DB]
+          ★★★★★             ★★★★☆          ★★★☆☆
+              │
+        ┌─────┴─────┐
+   [Auth Guards] [Query Opt.]
+     ★★★★★         ★★★★☆
 
----
+                        🏹 MOBILE RANGER
+                              │
+                    ┌─────────┴─────────┐
+               [Flutter]           [Dart]
+                ★★★★☆                ★★★★☆
+                    │
+             [Provider State Mgmt]
+                   ★★★★☆
+```
 
-## 🎒 INVENTORY (TECH STACK)
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,docker,mysql,mongodb&theme=dark" />
-</p>
+## 📜 QUEST LOG (ACTIVE PROJECTS)
 
-> 💬 *Ganti icon di atas sesuai skill kamu ya — daftar lengkapnya ada di [skillicons.dev](https://skillicons.dev)*
+| Quest | Type | Progress | Notes |
+|---|---|---|---|
+| 🏰 **E-Kinerja** (ekin-laravel) | ⭐ Main Quest | ████████░░ 80% | Sistem kinerja & absensi GPS pegawai, migrasi dari legacy PHP |
+| 🏪 **Rental-Laravel** | 🗡️ Side Quest | ██████░░░░ 60% | POS rental dengan RBAC (Spatie Permission) |
+| 📱 **Flutter Staff App** | 🎯 Completed Quest | ██████████ 100% | App manajemen staff resto, ML Kit + Provider |
 
----
+<br>
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## 📊 GAME STATS
 
-- 🥇 `First Commit` — Memulai petualangan coding
-- 🔥 `Bug Slayer` — Berhasil membasmi ratusan bug
-- 🌙 `Night Owl Coder` — Ngoding sampai subuh (achievement paling epic)
-- 🚀 `Project Launcher` — Berhasil deploy project ke production
-- 📚 `Knowledge Seeker` — Terus belajar teknologi baru
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivan-4k&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=ffcc00&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-4k&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=FFCC00&currStreakLabel=00FF9C" height="165"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-4k&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ivan-4k&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" height="165"/>
+</div>
 
-## 🗺️ QUEST LOG (CURRENT PROJECTS)
+<br>
 
-| Status | Project | Deskripsi |
-|:---:|---|---|
-| 🟢 | `Project Alpha` | Sedang dikerjakan |
-| 🟡 | `Project Beta` | Dalam perencanaan |
-| ✅ | `Project Gamma` | Selesai |
+## 🐍 CONTRIBUTION GRID — SNAKE EVENT
 
-> 💬 *Ganti dengan project asli kamu, dan tambahkan link repo-nya*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ivan-4k/ivan-4k/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
 
----
+> ⚠️ *Snake animation butuh setup GitHub Action tambahan (lihat catatan di bawah), belum langsung jalan otomatis.*
 
-## 📡 MULTIPLAYER — CONNECT WITH ME
+<br>
 
-<p align="center">
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://discord.com/users/USERNAME"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
+## 🔧 TECH INVENTORY
 
-> 💬 *Ganti `USERNAME` / `email@example.com` dengan akun kamu yang asli*
+<div align="center">
 
----
+`PHP` `Laravel` `Flutter` `Dart` `JavaScript` `MySQL` `HTML/CSS` `Git` `Leaflet.js` `Blade`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivan-4k&label=Profile+Views&color=00FF9C&style=for-the-badge" />
-</p>
+</div>
 
-<p align="center">
-  <i>"Every expert was once a beginner. Keep grinding, keep leveling up." 🎮</i>
-</p>
+<br>
+
+## 📡 CONNECT
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-ivan--4k-1a1a2e?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&text=GAME%20OVER%3F%20INSERT%20COIN%20TO%20CONTINUE&fontSize=16&fontColor=ffcc00&fontAlignY=60"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ivan-4k&label=PLAYER+VISITS&color=00ff9c&style=for-the-badge)
+
+</div>
