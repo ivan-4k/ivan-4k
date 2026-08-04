@@ -74,13 +74,13 @@
 ## 📊 GAME STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivan-4k&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=ffcc00&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats-five-psi-20.vercel.app/api?username=ivan-4k&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=ffcc00&text_color=c9d1d9" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-4k&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=FFCC00&currStreakLabel=00FF9C" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivan-4k&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ivan-4k&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" height="165"/>
+  <img src="https://github-readme-stats-five-psi-20.vercel.app/api/top-langs/?username=ivan-4k&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" height="165"/>
+  <img src="https://raw.githubusercontent.com/ivan-4k/ivan-4k/main/assets/trophy.svg" height="165"/>
 </div>
 
 <br>
