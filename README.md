@@ -79,7 +79,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-4k&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivan-4k&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" height="165"/>
   <img src="https://github-profile-trophy.vercel.app/?username=ivan-4k&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" height="165"/>
 </div>
 
@@ -88,10 +88,8 @@
 ## 🐍 CONTRIBUTION GRID — SNAKE EVENT
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ivan-4k/ivan-4k/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ivan-4k/ivan-4k/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-> ⚠️ *Snake animation butuh setup GitHub Action tambahan (lihat catatan di bawah), belum langsung jalan otomatis.*
 
 <br>
 
