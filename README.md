@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=IVAN.EXE&fontSize=60&fontColor=00ff9c&fontAlignY=45&animation=twinkling&desc=%3E%20LOADING%20PROFILE.exe...&descAlignY=65&descSize=18&descColor=ffcc00" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=PLAYER%3A+IVAN;CLASS%3A+BACKEND+MAGE+%2F+FLUTTER+RANGER;STATUS%3A+GRINDING+E-KINERJA+DUNGEON;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=PLAYER%3A+IVAN;CLASS%3A+BACKEND+MAGE+%2F+FLUTTER+RANGER;STATUS%3A+GRINDING+SIBUS+DUNGEON;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-CODING...-00ff9c?style=for-the-badge&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/MOOD-☕+DEBUGGING-ffcc00?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/CURRENT_QUEST-E--KINERJA-ff4d6d?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/CURRENT_QUEST-SIBUS+(RAJENDRA)-ff4d6d?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
 <br>
@@ -38,7 +38,7 @@
 ### 🌐 Frontend Scout
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
 
-`HTML` ★★★★☆ &nbsp;|&nbsp; `CSS` ★★★★☆ &nbsp;|&nbsp; `JavaScript` ★★★☆☆ &nbsp;|&nbsp; `Tailwind CSS` ★★★☆☆
+`HTML` ★★★★☆ &nbsp;|&nbsp; `CSS` ★★★★☆ &nbsp;|&nbsp; `JavaScript` ★★★☆☆ &nbsp;|&nbsp; `Tailwind CSS` ★★★★☆
 
 <br>
 
@@ -71,7 +71,7 @@
           ★★★★★             ★★★★☆          ★★★☆☆
               │
         ┌─────┴─────┐
-   [Auth Guards] [Query Opt.]
+   [Auth Guards] [Payment API]
      ★★★★★         ★★★★☆
 
                         🏹 MOBILE RANGER
@@ -90,8 +90,9 @@
 
 | Quest | Type | Progress | Notes |
 |---|---|---|---|
-| 🏰 **E-Kinerja** (ekin-laravel) | ⭐ Main Quest | ████████░░ 80% | Sistem kinerja & absensi GPS pegawai, migrasi dari legacy PHP |
-| 🏪 **Rental-Laravel** | 🗡️ Side Quest | ██████░░░░ 60% | POS rental dengan RBAC (Spatie Permission) |
+| 🚌 **SIBUS** (Rajendra Tours & Travel) | ⭐ Main Quest | ██████░░░░ 60% | Sistem booking bus & tour, migrasi ke Laravel 13, Midtrans Snap payment + Google OAuth member guard |
+| 🏰 **E-Kinerja** (ekin-laravel) | 🎯 Completed Quest | ██████████ 100% | Sistem kinerja & absensi GPS pegawai, migrasi dari legacy PHP |
+| 🏪 **Rental-Laravel** | 🤝 Guild Assist | ███░░░░░░░ Helping out | Cuma bantu-bantu dikit, punya temen |
 | 📱 **Flutter Seven Coffee** | 🎯 Completed Quest | ██████████ 100% | App manajemen staff resto, ML Kit + Provider |
 
 <br>
@@ -122,7 +123,7 @@
 
 <div align="center">
 
-`PHP` `Laravel` `Flutter` `Dart` `JavaScript` `MySQL` `HTML/CSS` `Git` `Leaflet.js` `Blade`
+`PHP` `Laravel` `Flutter` `Dart` `JavaScript` `MySQL` `HTML/CSS` `Git` `Leaflet.js` `Blade` `Midtrans` `Alpine.js`
 
 </div>
 
