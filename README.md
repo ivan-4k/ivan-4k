@@ -91,7 +91,7 @@
 | Quest | Type | Progress | Notes |
 |---|---|---|---|
 | 🚌 **SIBUS** (Rajendra Tours & Travel) | ⭐ Main Quest | ██████░░░░ 60% | Sistem booking bus & tour, migrasi ke Laravel 13, Midtrans Snap payment + Google OAuth member guard |
-| 🏰 **E-Kinerja** (ekin-laravel) | 🎯 Completed Quest | ██████████ 100% | Sistem kinerja & absensi GPS pegawai, migrasi dari legacy PHP |
+| 🏰 **E-Kinerja** (Ekin Yamali) | 🎯 Completed Quest | ██████████ 100% | Sistem kinerja & absensi GPS pegawai, migrasi dari legacy PHP |
 | 🏪 **Rental-Laravel** | 🤝 Guild Assist | ███░░░░░░░ Helping out | Cuma bantu-bantu dikit, punya temen |
 | 📱 **Flutter Seven Coffee** | 🎯 Completed Quest | ██████████ 100% | App manajemen staff resto, ML Kit + Provider |
 
