@@ -57,10 +57,17 @@
 
 <br>
 
-### 🛠️ Tools & Guild Hall
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
+### 🕵️ Intel & Reconnaissance
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
 
-`Git` ★★★★☆ &nbsp;|&nbsp; `VSCode` ★★★★★
+`C++` ★★★☆☆ &nbsp;|&nbsp; `Java` ★★★☆☆ &nbsp;|&nbsp; `Computer Networking` ★★☆☆☆
+
+<br>
+
+### 🛠️ Tools & Guild Hall
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,ubuntu,debian&theme=dark" />
+
+`Git` ★★★★☆ &nbsp;|&nbsp; `VSCode` ★★★★★ &nbsp;|&nbsp; `Figma` ★★☆☆☆ &nbsp;|&nbsp; `Linux (Ubuntu/Debian)` ★★☆☆☆
 
 </div>
 
@@ -125,7 +132,7 @@
 
 <div align="center">
 
-`PHP` `Laravel` `Filament` `Flutter` `Dart` `JavaScript` `MySQL` `HTML/CSS` `Git` `Leaflet.js` `Blade` `Midtrans` `Alpine.js`
+`PHP` `Laravel` `Filament` `Flutter` `Dart` `JavaScript` `C++` `Java` `MySQL` `HTML/CSS` `Git` `Linux` `Figma` `Leaflet.js` `Blade` `Midtrans` `Alpine.js`
 
 </div>
 
