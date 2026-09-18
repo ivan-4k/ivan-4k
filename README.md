@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=IVAN.EXE&fontSize=60&fontColor=00ff9c&fontAlignY=45&animation=twinkling&desc=%3E%20LOADING%20PROFILE.exe...&descAlignY=65&descSize=18&descColor=ffcc00" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=PLAYER%3A+IVAN;CLASS%3A+BACKEND+MAGE+%2F+FLUTTER+RANGER;STATUS%3A+GRINDING+AKADEMIK+DUNGEON;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=PLAYER%3A+IVAN;CLASS%3A+FULL+STACK+ASSASSIN;STATUS%3A+GRINDING+AKADEMIK+DUNGEON;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
 
 </div>
 
@@ -13,7 +13,7 @@
 ```
 ┌──────────────────────────────────────────────┐
 │  NAME     : Ivan                             │
-│  CLASS    : Laravel Mage / Flutter Ranger    │
+│  CLASS    : Full Stack Assassin              │
 │  LEVEL    : 4 (Semester 4)                   │
 │  LOCATION : Indonesia 🇮🇩                     |
 ├──────────────────────────────────────────────┤
@@ -24,6 +24,7 @@
 ```
 
 <div align="center">
+  <img src="https://img.shields.io/badge/CLASS-FULL_STACK_ASSASSIN-9d4edd?style=for-the-badge&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/STATUS-CODING...-00ff9c?style=for-the-badge&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/MOOD-☕+DEBUGGING-ffcc00?style=for-the-badge&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/CURRENT_QUEST-AKADEMIK+FILAMENT-ff4d6d?style=for-the-badge&labelColor=1a1a2e"/>
@@ -35,21 +36,21 @@
 
 <div align="center">
 
-### 🌐 Frontend Scout
+### 🗡️ Frontend Infiltration
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
 
 `HTML` ★★★★☆ &nbsp;|&nbsp; `CSS` ★★★★☆ &nbsp;|&nbsp; `JavaScript` ★★★☆☆ &nbsp;|&nbsp; `Tailwind CSS` ★★★★☆
 
 <br>
 
-### ⚔️ Backend Mage
+### 🩸 Backend Assassination
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" />
 
 `Laravel` ★★★★★ &nbsp;|&nbsp; `PHP 8.x` ★★★★☆ &nbsp;|&nbsp; `MySQL` ★★★☆☆
 
 <br>
 
-### 🏹 Mobile Ranger
+### 🥷 Mobile Shadow Ops
 <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 
 `Flutter` ★★★★☆ &nbsp;|&nbsp; `Dart` ★★★★☆ &nbsp;|&nbsp; `Provider State Mgmt` ★★★★☆
@@ -64,7 +65,7 @@
 </div>
 
 ```
-                        ⚔️ BACKEND MAGE
+                     🩸 BACKEND ASSASSINATION
                               │
               ┌───────────────┼───────────────┐
          [Laravel]         [PHP 8.x]      [MySQL/DB]
@@ -74,7 +75,7 @@
    [Auth Guards] [Payment API]
      ★★★★★         ★★★★☆
 
-                        🏹 MOBILE RANGER
+                     🥷 MOBILE SHADOW OPS
                               │
                     ┌─────────┴─────────┐
                [Flutter]           [Dart]
