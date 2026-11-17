@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=IVAN.EXE&fontSize=60&fontColor=00ff9c&fontAlignY=45&animation=twinkling&desc=%3E%20LOADING%20PROFILE.exe...&descAlignY=65&descSize=18&descColor=ffcc00" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=PLAYER%3A+IVAN;CLASS%3A+FULL+STACK+ASSASSIN;STATUS%3A+GRINDING+AKADEMIK+DUNGEON;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=PLAYER%3A+IVAN;CLASS%3A+FULL+STACK+ASSASSIN;STATUS%3A+BUILDING+KOST+%26+PROPERTI+REALM;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
 
 </div>
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/CLASS-FULL_STACK_ASSASSIN-9d4edd?style=for-the-badge&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/STATUS-CODING...-00ff9c?style=for-the-badge&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/MOOD-☕+DEBUGGING-ffcc00?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/CURRENT_QUEST-AKADEMIK+FILAMENT-ff4d6d?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/CURRENT_QUEST-WEB+KOST+%26+PROPERTI-ff4d6d?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
 <br>
@@ -98,7 +98,8 @@
 
 | Quest | Type | Progress | Notes |
 |---|---|---|---|
-| 🎓 **Akademik Filament** (Universitas Dummy Jaya) | ⭐ Main Quest | ████░░░░░░ In Progress | Sistem akademik multi-panel (Laravel + Filament v4) — Portal, Biro Akademik, Mahasiswa, Dosen, Prodi, Rektor, PMB |
+| 🏠 **Web Kost & Properti** | ⭐ Main Quest | █░░░░░░░░░ In Progress | Marketplace kost, homestay, rumah, gedung & ruko ala Mamikos — sewa dinamis (jam/harian/mingguan/bulanan/tahunan), member free/premium, booking & manajemen pemilik (Laravel + Blade + Tailwind + Alpine.js) |
+| 🎓 **Akademik Filament** (Universitas Dummy Jaya) | 🎯 Completed Quest | ██████████ 100% | Sistem akademik multi-panel (Laravel + Filament v4) — Portal, Biro Akademik, Mahasiswa, Dosen, Prodi, Rektor, PMB |
 | 🚌 **SIBUS** (Rajendra Tours & Travel) | 🕵️ Awaiting Client Review | ██████████ 100% | Sistem booking bus & tour, migrasi ke Laravel 13, Midtrans Snap payment + Google OAuth member guard — development done, nunggu review klien |
 | 🏰 **E-Kinerja** (Ekin Yamali) | 🎯 Completed Quest | ██████████ 100% | Sistem kinerja & absensi GPS pegawai, migrasi dari legacy PHP |
 | 🏪 **Rental-Laravel** | 🤝 Guild Assist | ███░░░░░░░ Helping out | Cuma bantu-bantu dikit, punya temen |
